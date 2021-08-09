@@ -7,7 +7,8 @@ I have great desire to learn more Always passionate about the world of computer 
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@Ipenywis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Holarmeday1) [![Mail Badge](https://img.shields.io/badge/-CoderOne-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.linkedin.com/in/adeyemo-rasheed-73224b1a2/) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)]
+[![Twitter Badge](https://img.shields.io/badge/Holarmeday1-Twitter-9cf)](https://twitter.com/Holarmeday1)
+[![Mail Badge](https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fadeyemo--rasheed--73224b1a2%2F1-LinkIn-blue)](https://www.linkedin.com/in/adeyemo-rasheed-73224b1a2/) [![Mail Badge](https://img.shields.io/badge/https%3A%2F%2Fwww.instagram.com%2Fhorlameday110%2F-Instagram-important)]
 (https://www.instagram.com/horlameday110/) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rasheedolamide2015@gmail.com)
 
 <!-- TODO: Add last video link -->
