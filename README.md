@@ -5,7 +5,7 @@ Hello, I am Adeyemo Rasheed, a Software Developer with Experience in Building Mu
 I have great desire to learn more Always passionate about the world of computer science and the algorithmic vision of the world.
 .
 
-:mailbox: Reach me out!
+:mailbox: Reach out to me!
 
 [![Twitter Badge](https://img.shields.io/badge/Holarmeday1-Twitter-9cf)](https://twitter.com/Holarmeday1)
 [![Mail Badge](https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fadeyemo--rasheed--73224b1a2%2F1-LinkIn-blue)](https://www.linkedin.com/in/adeyemo-rasheed-73224b1a2/)
