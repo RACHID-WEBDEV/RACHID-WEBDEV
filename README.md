@@ -65,10 +65,8 @@ I have great desire to learn more Always passionate about the world of computer 
 </summary>
 <br/>
 Have worked on major aspects of the Web Development life cycle, Building Creative Websites.  
+#### ...and a great desire to learn more...
 
-<br/>
-#### ...and a great desire to learn more...
-#### ...and a great desire to learn more...
 
 
 
