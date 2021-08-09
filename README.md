@@ -54,7 +54,7 @@ I have great desire to learn more Always passionate about the world of computer 
 <br />
 <br />
 
-#### Bizness
+#### Got a Project or Partnership in Mind?
 - :paperclip: [My Resume/CV](https://drive.google.com/file/d/1RgNb-YWlzUf7qP6F-Jkf_-fVweq0saZb/view?usp=sharing)
 - :email: rasheedolamide2015@gmail.com
 
@@ -63,12 +63,11 @@ I have great desire to learn more Always passionate about the world of computer 
 <summary>
   More stuff about me
 </summary>
-
 <br >
 Have worked on major aspects of the Web Development life cycle, Building Creative Websites.  
 
-
-...and a great desire to learn more...
+<br>
+#### ...and a great desire to learn more...
 
 
 
