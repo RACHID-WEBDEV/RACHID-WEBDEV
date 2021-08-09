@@ -17,12 +17,12 @@ I have great desire to learn more Always passionate about the world of computer 
 - 🔭 I’m currently working as a Freelancer @Roatek Technologies
 - 🤔 I’m look forward to help by Building Creative Websites for the World's People.
 - 📫 How to reach me: rasheedolamide2015@gmail.com.
-- ⚡ Fun fact: I play games and go to the GYM very often.
+- ⚡ Fun fact: I love watching Football ⚽  .
 
               
                 
 
-#### Top Technologies
+#### Top Skills
 
 <img align="left" alt="laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
 <img align="left" alt="css" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -65,8 +65,8 @@ I have great desire to learn more Always passionate about the world of computer 
 </summary>
 
 <br >
+Have worked on major aspects of the Web Development life cycle, Building Creative Websites.  
 
-Over the years I’ve Achieved numerous training courses and a coding and web development  academy, Combining creativity and personal attitudes to the Information Technologies.
 
 ...and a great desire to learn more...
 
