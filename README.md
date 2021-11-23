@@ -9,8 +9,8 @@ I have great desire to learn more Always passionate about the world of computer 
 
 [![Twitter Badge](https://img.shields.io/badge/Holarmeday1-Twitter-9cf)](https://bit.ly/3CGQ5pj)
 [![Mail Badge](https://img.shields.io/badge/LinkIn-blue)](https://bit.ly/3lO8lp7)
-[![Mail Badge](https://img.shields.io/badge/https%3A%2F%2Fwww.instagram.com%2Fhorlameday110%2F-Instagram-important)](https://bit.ly/3nN5Zdu)
-[![Mail Badge](https://img.shields.io/badge/Rasheed-Email-red)](mailto:rasheedolamide2015@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/Instagram-important)](https://bit.ly/3nN5Zdu)
+[![Mail Badge](https://img.shields.io/badge/Email-red)](mailto:rasheedolamide2015@gmail.com)
 
 <!-- TODO: Add last video link -->
 
