@@ -74,7 +74,7 @@ Have worked on major aspects of the Web Development life cycle, Building Creativ
 <summary>
   
 [![RACHID Github Stats](https://github-readme-stats.vercel.app/api?username=RACHID-WEBDEV)](https://github.com/RACHID-WEBDEV)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RACHID-WEBDEV&theme=buefy&layout=compact)
+
 
 
 </summary>
