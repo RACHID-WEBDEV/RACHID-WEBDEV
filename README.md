@@ -51,6 +51,16 @@ I have great desire to learn more Always passionate about the world of computer 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
 
+<br/>
+<br/>
+**Github Stats:**
+<summary>
+  
+[![RACHID Github Stats](https://github-readme-stats.vercel.app/api?username=RACHID-WEBDEV)](https://github.com/RACHID-WEBDEV)
+
+
+
+</summary>
 <br />
 <br />
 
@@ -70,13 +80,6 @@ Have worked on major aspects of the Web Development life cycle, Building Creativ
 ...and a great desire to learn more...
 
 
-**Github Stats:**
-<summary>
-  
-[![RACHID Github Stats](https://github-readme-stats.vercel.app/api?username=RACHID-WEBDEV)](https://github.com/RACHID-WEBDEV)
 
-
-
-</summary>
 
 
