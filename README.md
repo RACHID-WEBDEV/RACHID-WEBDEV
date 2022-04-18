@@ -1,8 +1,8 @@
-## Hi I'm Rasheed <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 ![Profile views](https://gpvc.arturio.dev/RACHID-WEBDEV)
 
-<img align="right" height="400px" src="https://i.ibb.co/xgRKxxF/bluefox.gif" />
+## Hi I'm Rasheed <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+
 
 Hello, I am Adeyemo Rasheed, a Software Developer with Experience in Building Multiple Secure Web Applications. over the years I have achieved numerous training courses and a coding bootcamps combine with my creativity and personal attitudes to the Information Technologies.
 
@@ -22,8 +22,7 @@ I have great desire to learn more Always passionate about the world of computer 
 - 🤔 I’m look forward to help by Building Creative Websites for the World's People.
 - 📫 How to reach me: rasheedolamide2015@gmail.com.
 - ⚡ Fun fact: I love watching Football ⚽  .
-
-              
+    
                 
 
 #### Top Skills
@@ -54,6 +53,7 @@ I have great desire to learn more Always passionate about the world of computer 
 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
+<img align="right" height="400px" src="https://i.ibb.co/xgRKxxF/bluefox.gif" />   
 
 <br/>
 <br/>
