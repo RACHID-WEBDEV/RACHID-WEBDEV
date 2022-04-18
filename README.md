@@ -61,9 +61,6 @@ I have great desire to learn more Always passionate about the world of computer 
   
 </summary>
 
-<br />
-<br />
-
 #### Got a Project or Partnership in Mind?
 - :paperclip: [My Resume/CV](https://drive.google.com/file/d/1-uwSS_gGen0YJxB2P7zXFV_aOvIfLMpZ/view?usp=sharing)
 - :email: rasheedolamide2015@gmail.com
