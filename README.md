@@ -17,7 +17,7 @@ I have great desire to learn more Always passionate about the world of computer 
 [![Mail Badge](https://img.shields.io/badge/Email-red)](mailto:rasheedolamide2015@gmail.com)
 
 <!-- TODO: Add last video link -->
-- 🔐 Building Secure Platform with @![Amcovad](https://github.com/Amcovad)
+- 🔐 Building Secure Deal Transactions Platform with [Amcovad](https://github.com/Amcovad)
 - 🔭 I’m working as a Freelancer @Roatek Technologies
 - 🤔 I’m look forward to help by Building Creative Websites for the World's People.
 - 📫 How to reach me: rasheedolamide2015@gmail.com.
