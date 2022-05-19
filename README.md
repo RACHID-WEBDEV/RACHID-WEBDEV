@@ -61,7 +61,7 @@ I have great desire to learn more Always passionate about the world of computer 
   
 <summary align="left>
                 
-  [![RACHID Github Stats](https://github-readme-stats.vercel.app/api?username=RACHID-WEBDEV)](https://github.com/RACHID-WEBDEV)
+  [RACHID Github Stats](https://github-readme-stats.vercel.app/api?username=RACHID-WEBDEV)(https://github.com/RACHID-WEBDEV)
                 
   </summary>
  
