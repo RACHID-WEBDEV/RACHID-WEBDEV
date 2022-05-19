@@ -59,11 +59,11 @@ I have great desire to learn more Always passionate about the world of computer 
 
   <img align="right" height="245px" src="https://i.ibb.co/xgRKxxF/bluefox.gif" /> 
   
-<summary align="left>
+
                 
-  [RACHID Github Stats](https://github-readme-stats.vercel.app/api?username=RACHID-WEBDEV)(https://github.com/RACHID-WEBDEV)
+  [![RACHID Github Stats](https://github-readme-stats.vercel.app/api?username=RACHID-WEBDEV)](https://github.com/RACHID-WEBDEV)
                 
-  </summary>
+
  
 <br/>
 <br/>
