@@ -1,7 +1,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/RACHID-WEBDEV)
 
-## Hi I'm Rasheed <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hi I'm Rasheed <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px"  height="28px" alt="hi">
 
 
 Hello, I am Adeyemo Rasheed, a Software Developer with Experience in Building Multiple Secure Web Applications. over the years I have achieved numerous training courses and a coding bootcamps combine with my creativity and personal attitudes to the Information Technologies.
