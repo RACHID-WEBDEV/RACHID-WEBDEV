@@ -12,7 +12,7 @@ I have great desire to learn more Always passionate about the world of computer 
 :mailbox: Reach out to me!
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-9cf)](https://bit.ly/3CGQ5pj)
-[![Mail Badge](https://img.shields.io/badge/LinkIn-blue)](https://bit.ly/3lO8lp7)
+[![Mail Badge](https://img.shields.io/badge/LinkIn-blue)](www.linkedin.com/in/adeyemorasheed)
 [![Mail Badge](https://img.shields.io/badge/Instagram-important)](https://bit.ly/3nN5Zdu)
 [![Mail Badge](https://img.shields.io/badge/Email-red)](mailto:rasheedolamide2015@gmail.com)
 
