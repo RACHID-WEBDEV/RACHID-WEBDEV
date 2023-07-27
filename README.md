@@ -58,10 +58,12 @@ I have a great desire to learn more Always passionate about computer science and
 
 **Github Stats:**
              
-  [![RACHID Github Stats](https://github-readme-stats.vercel.app/api?username=RACHID-WEBDEV&show_icons=true)](https://github.com/RACHID-WEBDEV)
-
- 
-<br/>
+<a href="https://github.com/RACHID-WEBDEV/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RACHID-WEBDEV&show_icons=true" />
+</a>
+<a href="https://github.com/RACHID-WEBDEV/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RACHID-WEBDEV&layout=compact&langs_count=10&card_width=320" />
+</a>
 <br/>
 
 #### Got a Project or Partnership in Mind?
