@@ -1,12 +1,11 @@
 
-![Profile views](https://gpvc.arturio.dev/RACHID-WEBDEV)
 
 ## Hi I'm Rasheed <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px"  height="28px" alt="hi">
 
 
-Hello, I am Adeyemo Rasheed, a Software Developer with Experience in Building Multiple Secure Web Applications. over the years I have achieved numerous training courses and a coding bootcamps combine with my creativity and personal attitudes to the Information Technologies.
+Hello, I am Adeyemo Rasheed, a Software Developer with Experience Building Multiple Secure Web Applications. Over the years I have achieved numerous training courses and coding boot camps combined with my creativity and personal attitude to Information Technologies.
 
-I have great desire to learn more Always passionate about the world of computer science and the algorithmic vision of the world.
+I have a great desire to learn more Always passionate about computer science and the algorithmic vision of the world.
 .
 
 :mailbox: Reach out to me!
@@ -19,7 +18,7 @@ I have great desire to learn more Always passionate about the world of computer 
 <!-- TODO: Add last video link -->
 - 🔐 Building Secure Deal Transactions Platform with [Amcovad](https://github.com/Amcovad)
 - 🔭 I’m working as a Freelancer @Roatek Technologies
-- 🤔 I’m look forward to help by Building Creative Websites for the World's People.
+- 🤔 I’m looking forward to helping by Building Creative Websites for the World's People.
 - 📫 How to reach me: rasheedolamide2015@gmail.com.
 - ⚡ Fun fact: I love watching Football ⚽  .
     
