@@ -53,11 +53,13 @@ I have a great desire to learn more Always passionate about computer science and
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
 <!-- <img align="right" height="100px" weight="200px" src="https://i.ibb.co/xgRKxxF/bluefox.gif" /> -->
+<br/>
+<br/>
 
 **Github Stats:**
              
-  [![RACHID Github Stats](https://github-readme-stats.vercel.app/api?username=RACHID-WEBDEV)](https://github.com/RACHID-WEBDEV)
-                
+  [![RACHID Github Stats](https://github-readme-stats.vercel.app/api?username=RACHID-WEBDEV&show_icons=true)](https://github.com/RACHID-WEBDEV)
+
  
 <br/>
 <br/>
