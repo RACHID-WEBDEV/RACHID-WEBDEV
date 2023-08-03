@@ -54,7 +54,7 @@ I have a great desire to learn more Always passionate about computer science and
 
 <!-- <img align="right" height="100px" weight="200px" src="https://i.ibb.co/xgRKxxF/bluefox.gif" /> -->
 <br/>
-<br/>
+<!-- <br/>
 
 **Github Stats:**
              
@@ -64,7 +64,7 @@ I have a great desire to learn more Always passionate about computer science and
 <a href="https://github.com/RACHID-WEBDEV/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RACHID-WEBDEV&layout=compact&langs_count=10&card_width=320" />
 </a>
-<br/>
+<br/> -->
 
 #### Got a Project or Partnership in Mind?
 
