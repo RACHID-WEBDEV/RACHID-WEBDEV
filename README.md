@@ -2,10 +2,13 @@
 
 ## Hi I'm Rasheed <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="28px"  height="28px" alt="hi"/>
 
-Hello, I am Adeyemo Rasheed, a Software Developer with Experience Building Multiple Secure Web Applications. Over the years I have achieved numerous training courses and coding boot camps combined with my creativity and personal attitude to Information Technologies.
+<!-- Hello, I am Adeyemo Rasheed, a Software Developer with Experience Building Multiple Secure Web Applications. Over the years I have achieved numerous training courses and coding boot camps combined with my creativity and personal attitude to Information Technologies.
 
 I have a great desire to learn more Always passionate about computer science and the algorithmic vision of the world.
-.
+. -->
+Hi there, I'm Adeyemo Rasheed, a skilled Software Developer with a background in crafting secure web applications. Along my path, I've undergone extensive training and participated in coding boot camps, all of which harmonize with my natural creativity and dedicated stance towards Information Technologies.
+
+I'm consistently fueled by an unquenchable thirst for learning, and my abiding enthusiasm for computer science is intricately woven with my fascination for the algorithmic nature of our universe.
 
 :mailbox: Reach out to me!
 
