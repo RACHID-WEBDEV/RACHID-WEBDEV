@@ -18,7 +18,7 @@ I'm consistently fueled by an unquenchable thirst for learning and my abiding en
 [![Mail Badge](https://img.shields.io/badge/Email-red)](mailto:rasheedolamide2015@gmail.com)
 
 <!-- TODO: Add last video link -->
-- 🔐 Building Secure Deal Transactions Platform with [Amcovad](https://github.com/Amcovad)
+- 🔐 Building with [TeliyTech](https://github.com/Teliy-Tech-Global) ,[Amcovad](https://github.com/Amcovad) 
 - 🔭 I’m working as a Freelancer @Roatek Technologies
 - 🤔 I’m looking forward to helping by Building Creative Websites for the World's People.
 - 📫 How to reach me: rasheedolamide2015@gmail.com.
